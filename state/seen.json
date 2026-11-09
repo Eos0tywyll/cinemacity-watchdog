@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:54:32",
+ "updated": "2026-11-09T19:43:09",
  "events": {
   "280340": {
    "id": "280340",
@@ -23,7 +23,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280340",
    "soldOut": false,
    "presentationCode": "280340",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8208,
+   "capacity": 385,
+   "freeSeats": 316
   },
   "280345": {
    "id": "280345",
@@ -47,7 +49,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280345",
    "soldOut": false,
    "presentationCode": "280345",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8104,
+   "capacity": 385,
+   "freeSeats": 312
   },
   "280331": {
    "id": "280331",
@@ -71,7 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.4961,
+   "capacity": 385,
+   "freeSeats": 191
   },
   "280341": {
    "id": "280341",
@@ -95,7 +101,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false,
    "presentationCode": "280341",
-   "availabilityRatio": 0.9896
+   "availabilityRatio": 0.5013,
+   "capacity": 385,
+   "freeSeats": 193
   },
   "280344": {
    "id": "280344",
@@ -119,7 +127,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280344",
    "soldOut": false,
    "presentationCode": "280344",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8338,
+   "capacity": 385,
+   "freeSeats": 321
   },
   "280346": {
    "id": "280346",
@@ -143,7 +153,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280346",
    "soldOut": false,
    "presentationCode": "280346",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.839,
+   "capacity": 385,
+   "freeSeats": 323
   },
   "280342": {
    "id": "280342",
@@ -167,7 +179,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280342",
    "soldOut": false,
    "presentationCode": "280342",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8883,
+   "capacity": 385,
+   "freeSeats": 342
   },
   "280348": {
    "id": "280348",
@@ -191,7 +205,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280348",
    "soldOut": false,
    "presentationCode": "280348",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8545,
+   "capacity": 385,
+   "freeSeats": 329
   },
   "280343": {
    "id": "280343",
@@ -215,7 +231,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280343",
    "soldOut": false,
    "presentationCode": "280343",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.9532,
+   "capacity": 385,
+   "freeSeats": 367
   },
   "280349": {
    "id": "280349",
@@ -239,7 +257,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280349",
    "soldOut": false,
    "presentationCode": "280349",
-   "availabilityRatio": 1.0
+   "availabilityRatio": 0.8857,
+   "capacity": 385,
+   "freeSeats": 341
   },
   "248952": {
    "id": "248952",
@@ -341,9 +361,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267892",
    "soldOut": false,
    "presentationCode": "267892",
-   "availabilityRatio": 0.0857,
+   "availabilityRatio": 0.0831,
    "capacity": 385,
-   "freeSeats": 33
+   "freeSeats": 32
   },
   "267900": {
    "id": "267900",
@@ -471,9 +491,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267906",
    "soldOut": false,
    "presentationCode": "267906",
-   "availabilityRatio": 0.1221,
+   "availabilityRatio": 0.1169,
    "capacity": 385,
-   "freeSeats": 47
+   "freeSeats": 45
   },
   "267908": {
    "id": "267908",

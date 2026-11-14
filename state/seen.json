@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:51:48",
+ "updated": "2026-11-14T23:56:56",
  "events": {
   "280340": {
    "id": "280340",
@@ -23,9 +23,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280340",
    "soldOut": false,
    "presentationCode": "280340",
-   "availabilityRatio": 0.6649,
+   "availabilityRatio": 0.6597,
    "capacity": 385,
-   "freeSeats": 256
+   "freeSeats": 254
   },
   "280345": {
    "id": "280345",
@@ -49,9 +49,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280345",
    "soldOut": false,
    "presentationCode": "280345",
-   "availabilityRatio": 0.7039,
+   "availabilityRatio": 0.6935,
    "capacity": 385,
-   "freeSeats": 271
+   "freeSeats": 267
   },
   "280331": {
    "id": "280331",
@@ -75,9 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 0.2987,
+   "availabilityRatio": 0.2935,
    "capacity": 385,
-   "freeSeats": 115
+   "freeSeats": 113
   },
   "280341": {
    "id": "280341",
@@ -127,9 +127,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280344",
    "soldOut": false,
    "presentationCode": "280344",
-   "availabilityRatio": 0.6494,
+   "availabilityRatio": 0.639,
    "capacity": 385,
-   "freeSeats": 250
+   "freeSeats": 246
   },
   "280346": {
    "id": "280346",
@@ -153,9 +153,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280346",
    "soldOut": false,
    "presentationCode": "280346",
-   "availabilityRatio": 0.6831,
+   "availabilityRatio": 0.6779,
    "capacity": 385,
-   "freeSeats": 263
+   "freeSeats": 261
   },
   "280342": {
    "id": "280342",
@@ -595,9 +595,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267911",
    "soldOut": false,
    "presentationCode": "267911",
-   "availabilityRatio": 0.0935,
+   "availabilityRatio": 0.0883,
    "capacity": 385,
-   "freeSeats": 36
+   "freeSeats": 34
   },
   "267913": {
    "id": "267913",
@@ -751,9 +751,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267926",
    "soldOut": false,
    "presentationCode": "267926",
-   "availabilityRatio": 0.0571,
+   "availabilityRatio": 0.0545,
    "capacity": 385,
-   "freeSeats": 22
+   "freeSeats": 21
   },
   "267928": {
    "id": "267928",

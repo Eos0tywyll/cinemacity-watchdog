@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:42:08",
+ "updated": "2026-11-19T18:39:00",
  "events": {
   "280340": {
    "id": "280340",
@@ -11,7 +11,7 @@
    "auditorium": "IMAX VOLVO",
    "attrs": [
     "12-plus",
-    "2d",
+    "3d",
     "action",
     "adventure",
     "drama",
@@ -23,9 +23,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280340",
    "soldOut": false,
    "presentationCode": "280340",
-   "availabilityRatio": 0.613,
+   "availabilityRatio": 0.5558,
    "capacity": 385,
-   "freeSeats": 236
+   "freeSeats": 214
   },
   "280345": {
    "id": "280345",
@@ -49,9 +49,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280345",
    "soldOut": false,
    "presentationCode": "280345",
-   "availabilityRatio": 0.6338,
+   "availabilityRatio": 0.6078,
    "capacity": 385,
-   "freeSeats": 244
+   "freeSeats": 234
   },
   "280331": {
    "id": "280331",
@@ -75,9 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 0.239,
+   "availabilityRatio": 0.1922,
    "capacity": 385,
-   "freeSeats": 92
+   "freeSeats": 74
   },
   "280341": {
    "id": "280341",
@@ -101,9 +101,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false,
    "presentationCode": "280341",
-   "availabilityRatio": 0.2649,
+   "availabilityRatio": 0.2156,
    "capacity": 385,
-   "freeSeats": 102
+   "freeSeats": 83
   },
   "280344": {
    "id": "280344",
@@ -115,7 +115,7 @@
    "auditorium": "IMAX VOLVO",
    "attrs": [
     "12-plus",
-    "2d",
+    "3d",
     "action",
     "adventure",
     "drama",
@@ -127,9 +127,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280344",
    "soldOut": false,
    "presentationCode": "280344",
-   "availabilityRatio": 0.587,
+   "availabilityRatio": 0.5325,
    "capacity": 385,
-   "freeSeats": 226
+   "freeSeats": 205
   },
   "280346": {
    "id": "280346",
@@ -153,9 +153,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280346",
    "soldOut": false,
    "presentationCode": "280346",
-   "availabilityRatio": 0.6312,
+   "availabilityRatio": 0.6182,
    "capacity": 385,
-   "freeSeats": 243
+   "freeSeats": 238
   },
   "280342": {
    "id": "280342",
@@ -167,7 +167,7 @@
    "auditorium": "IMAX VOLVO",
    "attrs": [
     "12-plus",
-    "2d",
+    "3d",
     "action",
     "adventure",
     "drama",
@@ -179,9 +179,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280342",
    "soldOut": false,
    "presentationCode": "280342",
-   "availabilityRatio": 0.7143,
+   "availabilityRatio": 0.6727,
    "capacity": 385,
-   "freeSeats": 275
+   "freeSeats": 259
   },
   "280348": {
    "id": "280348",
@@ -205,9 +205,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280348",
    "soldOut": false,
    "presentationCode": "280348",
-   "availabilityRatio": 0.6545,
+   "availabilityRatio": 0.6494,
    "capacity": 385,
-   "freeSeats": 252
+   "freeSeats": 250
   },
   "280343": {
    "id": "280343",
@@ -219,7 +219,7 @@
    "auditorium": "IMAX VOLVO",
    "attrs": [
     "12-plus",
-    "2d",
+    "3d",
     "action",
     "adventure",
     "drama",
@@ -231,9 +231,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280343",
    "soldOut": false,
    "presentationCode": "280343",
-   "availabilityRatio": 0.8182,
+   "availabilityRatio": 0.7766,
    "capacity": 385,
-   "freeSeats": 315
+   "freeSeats": 299
   },
   "280349": {
    "id": "280349",
@@ -361,9 +361,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267892",
    "soldOut": false,
    "presentationCode": "267892",
-   "availabilityRatio": 0.0753,
+   "availabilityRatio": 0.0727,
    "capacity": 385,
-   "freeSeats": 29
+   "freeSeats": 28
   },
   "267900": {
    "id": "267900",
@@ -387,9 +387,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267900",
    "soldOut": false,
    "presentationCode": "267900",
-   "availabilityRatio": 0.0675,
+   "availabilityRatio": 0.0623,
    "capacity": 385,
-   "freeSeats": 26
+   "freeSeats": 24
   },
   "267902": {
    "id": "267902",

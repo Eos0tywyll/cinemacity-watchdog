@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:58:05",
+ "updated": "2026-11-24T18:34:40",
  "events": {
   "280340": {
    "id": "280340",
@@ -75,9 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 0.1532,
+   "availabilityRatio": 0.1429,
    "capacity": 385,
-   "freeSeats": 59
+   "freeSeats": 55
   },
   "280341": {
    "id": "280341",
@@ -101,9 +101,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false,
    "presentationCode": "280341",
-   "availabilityRatio": 0.174,
+   "availabilityRatio": 0.1584,
    "capacity": 385,
-   "freeSeats": 67
+   "freeSeats": 61
   },
   "280344": {
    "id": "280344",
@@ -127,9 +127,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280344",
    "soldOut": false,
    "presentationCode": "280344",
-   "availabilityRatio": 0.4831,
+   "availabilityRatio": 0.4727,
    "capacity": 385,
-   "freeSeats": 186
+   "freeSeats": 182
   },
   "280346": {
    "id": "280346",
@@ -179,9 +179,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280342",
    "soldOut": false,
    "presentationCode": "280342",
-   "availabilityRatio": 0.6416,
+   "availabilityRatio": 0.6312,
    "capacity": 385,
-   "freeSeats": 247
+   "freeSeats": 243
   },
   "280348": {
    "id": "280348",
@@ -205,9 +205,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280348",
    "soldOut": false,
    "presentationCode": "280348",
-   "availabilityRatio": 0.613,
+   "availabilityRatio": 0.6026,
    "capacity": 385,
-   "freeSeats": 236
+   "freeSeats": 232
   },
   "280343": {
    "id": "280343",
@@ -231,9 +231,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280343",
    "soldOut": false,
    "presentationCode": "280343",
-   "availabilityRatio": 0.761,
+   "availabilityRatio": 0.7506,
    "capacity": 385,
-   "freeSeats": 293
+   "freeSeats": 289
   },
   "280349": {
    "id": "280349",
@@ -257,9 +257,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280349",
    "soldOut": false,
    "presentationCode": "280349",
-   "availabilityRatio": 0.574,
+   "availabilityRatio": 0.5714,
    "capacity": 385,
-   "freeSeats": 221
+   "freeSeats": 220
   },
   "248952": {
    "id": "248952",
@@ -361,9 +361,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267892",
    "soldOut": false,
    "presentationCode": "267892",
-   "availabilityRatio": 0.0649,
+   "availabilityRatio": 0.0623,
    "capacity": 385,
-   "freeSeats": 25
+   "freeSeats": 24
   },
   "267900": {
    "id": "267900",
@@ -387,9 +387,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267900",
    "soldOut": false,
    "presentationCode": "267900",
-   "availabilityRatio": 0.0623,
+   "availabilityRatio": 0.0519,
    "capacity": 385,
-   "freeSeats": 24
+   "freeSeats": 20
   },
   "267902": {
    "id": "267902",
@@ -413,9 +413,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267902",
    "soldOut": false,
    "presentationCode": "267902",
-   "availabilityRatio": 0.0727,
+   "availabilityRatio": 0.0675,
    "capacity": 385,
-   "freeSeats": 28
+   "freeSeats": 26
   },
   "267904": {
    "id": "267904",
@@ -595,9 +595,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267911",
    "soldOut": false,
    "presentationCode": "267911",
-   "availabilityRatio": 0.0649,
+   "availabilityRatio": 0.0597,
    "capacity": 385,
-   "freeSeats": 25
+   "freeSeats": 23
   },
   "267913": {
    "id": "267913",
@@ -647,9 +647,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267914",
    "soldOut": false,
    "presentationCode": "267914",
-   "availabilityRatio": 0.0416,
+   "availabilityRatio": 0.0364,
    "capacity": 385,
-   "freeSeats": 16
+   "freeSeats": 14
   },
   "267915": {
    "id": "267915",
@@ -725,9 +725,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267922",
    "soldOut": false,
    "presentationCode": "267922",
-   "availabilityRatio": 0.0779,
+   "availabilityRatio": 0.0727,
    "capacity": 385,
-   "freeSeats": 30
+   "freeSeats": 28
   },
   "267926": {
    "id": "267926",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:35:02",
+ "updated": "2026-11-25T11:27:06",
  "events": {
   "280340": {
    "id": "280340",
@@ -23,9 +23,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280340",
    "soldOut": false,
    "presentationCode": "280340",
-   "availabilityRatio": 0.5325,
+   "availabilityRatio": 0.5195,
    "capacity": 385,
-   "freeSeats": 205
+   "freeSeats": 200
   },
   "280345": {
    "id": "280345",
@@ -49,9 +49,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280345",
    "soldOut": false,
    "presentationCode": "280345",
-   "availabilityRatio": 0.5844,
+   "availabilityRatio": 0.5792,
    "capacity": 385,
-   "freeSeats": 225
+   "freeSeats": 223
   },
   "280331": {
    "id": "280331",
@@ -75,9 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 0.1351,
+   "availabilityRatio": 0.1325,
    "capacity": 385,
-   "freeSeats": 52
+   "freeSeats": 51
   },
   "280341": {
    "id": "280341",
@@ -101,9 +101,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false,
    "presentationCode": "280341",
-   "availabilityRatio": 0.1636,
+   "availabilityRatio": 0.1558,
    "capacity": 385,
-   "freeSeats": 63
+   "freeSeats": 60
   },
   "280344": {
    "id": "280344",
@@ -179,9 +179,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280342",
    "soldOut": false,
    "presentationCode": "280342",
-   "availabilityRatio": 0.6312,
+   "availabilityRatio": 0.626,
    "capacity": 385,
-   "freeSeats": 243
+   "freeSeats": 241
   },
   "280348": {
    "id": "280348",
@@ -205,9 +205,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280348",
    "soldOut": false,
    "presentationCode": "280348",
-   "availabilityRatio": 0.6,
+   "availabilityRatio": 0.5974,
    "capacity": 385,
-   "freeSeats": 231
+   "freeSeats": 230
   },
   "280343": {
    "id": "280343",
@@ -257,9 +257,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280349",
    "soldOut": false,
    "presentationCode": "280349",
-   "availabilityRatio": 0.5714,
+   "availabilityRatio": 0.5818,
    "capacity": 385,
-   "freeSeats": 220
+   "freeSeats": 224
   },
   "248952": {
    "id": "248952",

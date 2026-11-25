@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:27:06",
+ "updated": "2026-11-25T21:10:03",
  "events": {
   "280340": {
    "id": "280340",
@@ -75,9 +75,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280331",
    "soldOut": false,
    "presentationCode": "280331",
-   "availabilityRatio": 0.1325,
+   "availabilityRatio": 0.1273,
    "capacity": 385,
-   "freeSeats": 51
+   "freeSeats": 49
   },
   "280341": {
    "id": "280341",
@@ -101,9 +101,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false,
    "presentationCode": "280341",
-   "availabilityRatio": 0.1558,
+   "availabilityRatio": 0.1506,
    "capacity": 385,
-   "freeSeats": 60
+   "freeSeats": 58
   },
   "280344": {
    "id": "280344",
@@ -127,9 +127,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280344",
    "soldOut": false,
    "presentationCode": "280344",
-   "availabilityRatio": 0.4675,
+   "availabilityRatio": 0.4597,
    "capacity": 385,
-   "freeSeats": 180
+   "freeSeats": 177
   },
   "280346": {
    "id": "280346",
@@ -153,9 +153,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280346",
    "soldOut": false,
    "presentationCode": "280346",
-   "availabilityRatio": 0.574,
+   "availabilityRatio": 0.5636,
    "capacity": 385,
-   "freeSeats": 221
+   "freeSeats": 217
   },
   "280342": {
    "id": "280342",
@@ -179,9 +179,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280342",
    "soldOut": false,
    "presentationCode": "280342",
-   "availabilityRatio": 0.626,
+   "availabilityRatio": 0.6208,
    "capacity": 385,
-   "freeSeats": 241
+   "freeSeats": 239
   },
   "280348": {
    "id": "280348",
@@ -231,9 +231,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280343",
    "soldOut": false,
    "presentationCode": "280343",
-   "availabilityRatio": 0.7455,
+   "availabilityRatio": 0.7351,
    "capacity": 385,
-   "freeSeats": 287
+   "freeSeats": 283
   },
   "280349": {
    "id": "280349",
@@ -257,9 +257,9 @@
    "booking": "https://tickets.cinemacity.cz/order/280349",
    "soldOut": false,
    "presentationCode": "280349",
-   "availabilityRatio": 0.5818,
+   "availabilityRatio": 0.5766,
    "capacity": 385,
-   "freeSeats": 224
+   "freeSeats": 222
   },
   "248952": {
    "id": "248952",
@@ -283,9 +283,9 @@
    "booking": "https://tickets.cinemacity.cz/order/248952",
    "soldOut": false,
    "presentationCode": "248952",
-   "availabilityRatio": 0.0156,
+   "availabilityRatio": 0.0208,
    "capacity": 385,
-   "freeSeats": 6
+   "freeSeats": 8
   },
   "248958": {
    "id": "248958",
@@ -335,9 +335,9 @@
    "booking": "https://tickets.cinemacity.cz/order/249034",
    "soldOut": false,
    "presentationCode": "249034",
-   "availabilityRatio": 0.0208,
+   "availabilityRatio": 0.0182,
    "capacity": 385,
-   "freeSeats": 8
+   "freeSeats": 7
   },
   "267892": {
    "id": "267892",
@@ -361,9 +361,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267892",
    "soldOut": false,
    "presentationCode": "267892",
-   "availabilityRatio": 0.0623,
+   "availabilityRatio": 0.0649,
    "capacity": 385,
-   "freeSeats": 24
+   "freeSeats": 25
   },
   "267900": {
    "id": "267900",
@@ -491,9 +491,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267906",
    "soldOut": false,
    "presentationCode": "267906",
-   "availabilityRatio": 0.0883,
+   "availabilityRatio": 0.0935,
    "capacity": 385,
-   "freeSeats": 34
+   "freeSeats": 36
   },
   "267908": {
    "id": "267908",
@@ -595,9 +595,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267911",
    "soldOut": false,
    "presentationCode": "267911",
-   "availabilityRatio": 0.0597,
+   "availabilityRatio": 0.0545,
    "capacity": 385,
-   "freeSeats": 23
+   "freeSeats": 21
   },
   "267913": {
    "id": "267913",
@@ -621,9 +621,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267913",
    "soldOut": false,
    "presentationCode": "267913",
-   "availabilityRatio": 0.0442,
+   "availabilityRatio": 0.039,
    "capacity": 385,
-   "freeSeats": 17
+   "freeSeats": 15
   },
   "267914": {
    "id": "267914",
@@ -673,9 +673,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267915",
    "soldOut": false,
    "presentationCode": "267915",
-   "availabilityRatio": 0.0545,
+   "availabilityRatio": 0.0468,
    "capacity": 385,
-   "freeSeats": 21
+   "freeSeats": 18
   },
   "267916": {
    "id": "267916",
@@ -699,9 +699,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267916",
    "soldOut": false,
    "presentationCode": "267916",
-   "availabilityRatio": 0.0649,
+   "availabilityRatio": 0.0623,
    "capacity": 385,
-   "freeSeats": 25
+   "freeSeats": 24
   },
   "267922": {
    "id": "267922",
@@ -725,9 +725,9 @@
    "booking": "https://tickets.cinemacity.cz/order/267922",
    "soldOut": false,
    "presentationCode": "267922",
-   "availabilityRatio": 0.0727,
+   "availabilityRatio": 0.0675,
    "capacity": 385,
-   "freeSeats": 28
+   "freeSeats": 26
   },
   "267926": {
    "id": "267926",
@@ -755,13 +755,13 @@
    "capacity": 385,
    "freeSeats": 21
   },
-  "267928": {
-   "id": "267928",
+  "291584": {
+   "id": "291584",
    "film": "Duna: část třetí",
    "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
    "cinema": "Praha Flora, OC FLORA",
    "cinemaId": "1052",
-   "datetime": "2026-12-20T20:40:00",
+   "datetime": "2026-12-21T09:00:00",
    "auditorium": "IMAX VOLVO",
    "attrs": [
     "12-plus",
@@ -774,12 +774,376 @@
     "sci-fi",
     "subbed"
    ],
-   "booking": "https://tickets.cinemacity.cz/order/267928",
+   "booking": "https://tickets.cinemacity.cz/order/291584",
    "soldOut": false,
-   "presentationCode": "267928",
-   "availabilityRatio": 0.0623,
+   "presentationCode": "291584",
+   "availabilityRatio": 0.9247,
    "capacity": 385,
-   "freeSeats": 24
+   "freeSeats": 356
+  },
+  "291585": {
+   "id": "291585",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-21T12:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291585",
+   "soldOut": false,
+   "presentationCode": "291585",
+   "availabilityRatio": 0.8494,
+   "capacity": 385,
+   "freeSeats": 327
+  },
+  "291586": {
+   "id": "291586",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-21T15:40:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291586",
+   "soldOut": false,
+   "presentationCode": "291586",
+   "availabilityRatio": 0.7013,
+   "capacity": 385,
+   "freeSeats": 270
+  },
+  "291587": {
+   "id": "291587",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-21T19:00:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291587",
+   "soldOut": false,
+   "presentationCode": "291587",
+   "availabilityRatio": 0.5351,
+   "capacity": 385,
+   "freeSeats": 206
+  },
+  "291588": {
+   "id": "291588",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-21T22:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291588",
+   "soldOut": false,
+   "presentationCode": "291588",
+   "availabilityRatio": 0.8571,
+   "capacity": 385,
+   "freeSeats": 330
+  },
+  "291589": {
+   "id": "291589",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-22T09:00:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291589",
+   "soldOut": false,
+   "presentationCode": "291589",
+   "availabilityRatio": 0.9584,
+   "capacity": 385,
+   "freeSeats": 369
+  },
+  "291590": {
+   "id": "291590",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-22T12:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291590",
+   "soldOut": false,
+   "presentationCode": "291590",
+   "availabilityRatio": 0.9117,
+   "capacity": 385,
+   "freeSeats": 351
+  },
+  "291591": {
+   "id": "291591",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-22T15:40:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291591",
+   "soldOut": false,
+   "presentationCode": "291591",
+   "availabilityRatio": 0.8182,
+   "capacity": 385,
+   "freeSeats": 315
+  },
+  "291592": {
+   "id": "291592",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-22T19:00:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291592",
+   "soldOut": false,
+   "presentationCode": "291592",
+   "availabilityRatio": 0.6364,
+   "capacity": 385,
+   "freeSeats": 245
+  },
+  "291593": {
+   "id": "291593",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-22T22:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291593",
+   "soldOut": false,
+   "presentationCode": "291593",
+   "availabilityRatio": 0.8779,
+   "capacity": 385,
+   "freeSeats": 338
+  },
+  "291594": {
+   "id": "291594",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-23T09:00:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291594",
+   "soldOut": false,
+   "presentationCode": "291594",
+   "availabilityRatio": 0.9662,
+   "capacity": 385,
+   "freeSeats": 372
+  },
+  "291595": {
+   "id": "291595",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-23T12:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291595",
+   "soldOut": false,
+   "presentationCode": "291595",
+   "availabilityRatio": 0.9195,
+   "capacity": 385,
+   "freeSeats": 354
+  },
+  "291596": {
+   "id": "291596",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-23T15:40:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291596",
+   "soldOut": false,
+   "presentationCode": "291596",
+   "availabilityRatio": 0.8545,
+   "capacity": 385,
+   "freeSeats": 329
+  },
+  "291597": {
+   "id": "291597",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-23T19:00:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291597",
+   "soldOut": false,
+   "presentationCode": "291597",
+   "availabilityRatio": 0.6987,
+   "capacity": 385,
+   "freeSeats": 269
+  },
+  "291598": {
+   "id": "291598",
+   "film": "Duna: část třetí",
+   "filmLink": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-12-23T22:20:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "70-mm",
+    "action",
+    "adventure",
+    "drama",
+    "first-subbed-lang-cs",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/291598",
+   "soldOut": false,
+   "presentationCode": "291598",
+   "availabilityRatio": 0.9169,
+   "capacity": 385,
+   "freeSeats": 353
   }
  }
 }
